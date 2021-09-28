@@ -60,6 +60,9 @@
      <Compile Include="Assets\Scripts\CameraRotation.cs" />
      <Compile Include="Assets\Scripts\Choice.cs" />
      <Compile Include="Assets\Scripts\EnemyAi.cs" />
+     <Compile Include="Assets\Scripts\Factories\GenericFactory.cs" />
+     <Compile Include="Assets\Scripts\Factories\PressF.cs" />
+     <Compile Include="Assets\Scripts\Factories\TrapFactory.cs" />
      <Compile Include="Assets\Scripts\FirstAttack.cs" />
      <Compile Include="Assets\Scripts\Follow.cs" />
      <Compile Include="Assets\Scripts\HealtbarGUI.cs" />
